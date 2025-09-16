@@ -1,4 +1,6 @@
-﻿using System;
+﻿//7. Write a program in C# Sharp to separate odd and even integers into separate arrays.
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

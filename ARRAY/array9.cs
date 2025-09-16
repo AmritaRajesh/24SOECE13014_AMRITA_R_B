@@ -1,4 +1,6 @@
-﻿using System;
+﻿//9. Write a C# Sharp program to delete an element at the desired position from an array.
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

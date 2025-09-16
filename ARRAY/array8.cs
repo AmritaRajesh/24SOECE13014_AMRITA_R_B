@@ -1,4 +1,6 @@
-﻿using System;
+﻿//8. Write a C# Sharp program to sort array elements in descending order.
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

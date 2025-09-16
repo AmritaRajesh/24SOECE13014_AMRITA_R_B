@@ -1,4 +1,6 @@
-﻿using System;
+﻿//4. Write a C# Sharp program to copy the elements of one array into another array.
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

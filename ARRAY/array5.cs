@@ -1,4 +1,6 @@
-﻿using System;
+﻿//5. Write a C# Sharp program to count duplicate elements in an array.
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

@@ -1,4 +1,6 @@
-﻿using System;
+﻿//6.Write a C# Sharp program to find the maximum and minimum elements in an array.
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

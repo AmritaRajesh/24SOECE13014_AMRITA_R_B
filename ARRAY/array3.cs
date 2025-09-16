@@ -1,4 +1,6 @@
-﻿using System;
+﻿//3. Write a C# Sharp program to read n values in an array and display them in reverse order.
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
