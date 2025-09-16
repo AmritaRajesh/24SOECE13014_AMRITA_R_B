@@ -1,4 +1,5 @@
-﻿using System;
+﻿//10. Write a C# Sharp program for adding two matrices of the same size.
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
