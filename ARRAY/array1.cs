@@ -1,4 +1,7 @@
-﻿using System;
+﻿//1. Write a C# Sharp program that stores elements in an array and prints them.
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
